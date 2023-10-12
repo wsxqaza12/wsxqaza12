@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ChiChieh Huang</h1>
-<h3 align="center">A passionate Scientist from Taiwan</h3>
+<h3 align="center">A passionate Data Scientist from Taiwan</h3>
 
 <div align="center">
     <img  src="https://visitor-badge.glitch.me/badge?page_id=wsxqaza12" />
