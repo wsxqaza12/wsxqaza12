@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm ChiChieh Huang</h1>
 <h3 align="center">A passionate Data Scientist from Taiwan</h3>
 
-<!-- <div align="center">
-    <img  src="https://visitor-badge.glitch.me/badge?page_id=wsxqaza12" />
-</div> -->
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12&label=VISITORS&labelColor=%23dce775&countColor=%232ccce4" /></a>
 
 - 📫 How to reach me **cch.chichieh@gmail.com**
 
