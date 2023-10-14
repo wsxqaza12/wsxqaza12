@@ -20,6 +20,8 @@ Developing Autotuning combined with Backtesting functionality, training several 
 ### Global Top Five Pharmaceutical Manufacturer (In Progress): 
 Using XGBoost and lightGBM to build an MMM model, with the aim of resolving budget allocation issues in trade marketing activities for the client.
 
+- 📚 My Portfolio and Project introduction [here](https://github.com/wsxqaza12/Portfolio)👈
+
 - 📫 How to reach me **cch.chichieh@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HdprJ-t2OgsEY1C0TzdkoHPfwZrucgJU/view?usp=sharing)
