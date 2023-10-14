@@ -6,6 +6,19 @@
       <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12&label=VISITORS&labelColor=%23dce775&countColor=%232ccce4" /></a></td>
   </tr>
 </table>
+I'm currently a Data Scientist with nearly 3 years of experience at a US-based startup foreign AI company. My role involves integrating causal analysis with machine learning, prioritizing interpretable models to earn client trust and guide decision-making. I have a strong focus on Marketing Mix Modeling (MMM), where I've assisted clients in saving 20% of their budget without compromising revenue.
+
+### Global Top Three Pharmaceutical Company: 
+Utilizing RF to create an MMM model, assisting each client in identifying the contribution of every marketing strategy. Additionally, providing response curves for each marketing strategy and calculating the optimal budget allocation to aid client decision-making. This approach helps clients save 20% of their budget without compromising revenue.
+
+### Top Three Advertising Companies in Taiwan: 
+Building MMM models for various advertising channels using XGBoost to address digital marketing advertising budget issues. Offering clients optimal budget allocation at different levels, assisting them in upper management, and achieving a 10% increase in revenue.
+
+### Global Steel and Aerospace Company: 
+Developing Autotuning combined with Backtesting functionality, training several ML models such as RF and DeepAR. Identifying the top-performing model out of 20 different combinations, achieving an estimated accuracy of 95%, and helping clients increase net revenue by 52%.
+
+### Global Top Five Pharmaceutical Manufacturer (In Progress): 
+Using XGBoost and lightGBM to build an MMM model, with the aim of resolving budget allocation issues in trade marketing activities for the client.
 
 - 📫 How to reach me **cch.chichieh@gmail.com**
 
