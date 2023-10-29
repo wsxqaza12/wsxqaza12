@@ -2,7 +2,7 @@
   <tr>
     <td valign="top"><img align="top" alt="GIF" src="https://github.com/wsxqaza12/wsxqaza12/blob/master/gif_into.gif" width="500" height="320" /></td>
     <td valign="middle ">
-      <p>Hi 👋, I'm ChiChieh Huang. I firmly believe that nothing is impossible, understanding that passion and curiosity drive human progress.🔥</p>
+      <p>Hi 👋, I'm ChiChieh Huang. I firmly believe that nothing is impossible, understanding that passion and curiosity drive human progress.🔥 </p>
       <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12&label=VISITORS&labelColor=%23dce775&countColor=%232ccce4" /></a></td>
   </tr>
 </table>
