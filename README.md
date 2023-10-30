@@ -6,7 +6,7 @@
       <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12&label=VISITORS&labelColor=%23dce775&countColor=%232ccce4" /></a></td>
   </tr>
 </table>
-I'm currently a Data Scientist with nearly 3 years of experience at a US-based startup foreign AI company. My role involves integrating causal analysis with machine learning, prioritizing interpretable models to earn client trust and guide decision-making. I have a strong focus on Marketing Mix Modeling (MMM), where I've assisted clients in saving 20% of their budget without compromising revenue.
+I'm currently a Data Scientist with nearly 3 years of experience at a US-based startup foreign AI company. My role involves integrating causal analysis with machine learning, prioritizing interpretable models to earn client trust and guide decision-making. I have a strong focus on Marketing Mix Modeling (MMM), where I've assisted clients in saving 15% of their budget without compromising revenue.
 
 - 📚 My Portfolio and Project introduction [here](https://github.com/wsxqaza12/Portfolio)👈
 
