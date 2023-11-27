@@ -12,7 +12,7 @@ I'm currently a Data Scientist with nearly 3 years of experience at a US-based s
 
 - 📫 How to reach me **cch.chichieh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HdprJ-t2OgsEY1C0TzdkoHPfwZrucgJU/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F6VZP4rHvPGt9dF-sbAN6Yqn0SD5pK92/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
