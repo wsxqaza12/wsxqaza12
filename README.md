@@ -8,11 +8,11 @@
 </table>
 I'm currently a Data Scientist with nearly 3 years of experience at a US-based startup foreign AI company. My role involves integrating causal analysis with machine learning, prioritizing interpretable models to earn client trust and guide decision-making. I have a strong focus on Causal inference, Marketing Mix Modeling (MMM), demand forecasting, time series, A/B testing, optimization problems,  where I've assisted clients in saving 15% of their budget without compromising revenue.
 
-- 📚 My Portfolio and Project introduction [here](https://github.com/wsxqaza12/Portfolio)👈
+- 📚 My Portfolio and Project introduction **[here](https://github.com/wsxqaza12/Portfolio)** 👈
 
 - 📫 How to reach me **cch.chichieh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1F6VZP4rHvPGt9dF-sbAN6Yqn0SD5pK92/view)
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1TyvlKcVTVIy52QPdhGopoypF11jrVMbA/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
