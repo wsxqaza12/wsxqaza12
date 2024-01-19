@@ -8,10 +8,17 @@
 </table>
 I am currently a Senior Data Scientist with more than 3 years of experience at a U.S.-based startup foreign enterprise. My role involves integrating causal analysis with machine learning, prioritizing interpretable models to earn client trust and guide decision-making. I have a strong focus on Causal inference, Marketing Mix Modeling (MMM), demand forecasting, time series, A/B testing, optimization problems, where I've assisted clients in saving 15% of their budget without compromising revenue.
 
+Additionally, I have experience handling several projects related to Generative AI.  
+1. Developed a questionnaire survey report generation system using the Llama2 language model integrated with RAG, resulting in an 80% time-saving for users.
+2. Developed puppetry character motion assets using the stable diffusion model and established an MVP by integrating a web interface through a Flask-based API.
+
+
 - 📚 My Portfolio and Project introduction **[here](https://github.com/wsxqaza12/Portfolio)** 👈
-
+  
 - 📫 How to reach me **cch.chichieh@gmail.com**
-
+  
+- 📒 My Medium articles share a variety of knowledge about AI. **[here](https://medium.com/@cch.chichieh)**
+  
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1NDO9IShQXG7nnlD6upS7c7YkRN8Qqqso/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
