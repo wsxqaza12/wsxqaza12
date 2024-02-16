@@ -19,7 +19,7 @@ Additionally, I have experience handling several projects related to Generative 
   
 - 📒 My Medium articles share a variety of knowledge about AI. **[here](https://medium.com/@cch.chichieh)**
   
-- 📄 Know about my experiences **[Resume]**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1NDO9IShQXG7nnlD6upS7c7YkRN8Qqqso/view?usp=drive_link)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
