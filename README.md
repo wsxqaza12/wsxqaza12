@@ -23,7 +23,7 @@ Additionally, I have experience handling several projects related to Generative 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/chichieh huang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chichieh huang" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chichieh-huang-5322881ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chichieh huang" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/user4144i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user4144i" height="30" width="40" /></a>
 </p>
 
