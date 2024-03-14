@@ -13,11 +13,11 @@ Additionally, I have experience handling several projects related to Generative 
 2. Developed puppetry character motion assets using the stable diffusion model and established an MVP by integrating a web interface through a Flask-based API.
 
 
-- 📚 My Portfolio and Project introduction **[here](https://github.com/wsxqaza12/Portfolio)** 👈
+- 📒 My Medium articles share a variety of knowledge about AI. **[here](https://medium.com/@cch.chichieh)**
+  
+- 📚 My Data Visualization **[here](https://drive.google.com/file/d/17D9jWmNCJNPTMbp1ibWR9Ll-SB8H4NL0/view)** 👈
   
 - 📫 How to reach me **cch.chichieh@gmail.com**
-  
-- 📒 My Medium articles share a variety of knowledge about AI. **[here](https://medium.com/@cch.chichieh)**
   
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1NDO9IShQXG7nnlD6upS7c7YkRN8Qqqso/view?usp=drive_link)**
 
