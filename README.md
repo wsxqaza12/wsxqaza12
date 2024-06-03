@@ -6,11 +6,7 @@
       <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12&label=VISITORS&labelColor=%23dce775&countColor=%232ccce4" /></a></td>
   </tr>
 </table>
-I am currently a Senior Data Scientist with more than 3 years of experience at a U.S.-based startup foreign enterprise. My role involves integrating causal analysis with machine learning, prioritizing interpretable models to earn client trust and guide decision-making. I have a strong focus on Causal inference, Marketing Mix Modeling (MMM), demand forecasting, time series, A/B testing, optimization problems, where I've assisted clients in saving 15% of their budget without compromising revenue.
-  
-Additionally, I have experience handling several projects related to Generative AI.   
-1. Developed a questionnaire survey report generation system using the Llama2 language model integrated with RAG, resulting in an 80% time-saving for users.
-2. Developed puppetry character motion assets using the stable diffusion model and established an MVP by integrating a web interface through a Flask-based API.
+I'm an experienced AI engineer specializing in Large Language Models (LLM). My expertise includes causal inference, Marketing Mix Modeling, time series analysis, and advanced LLM applications. I integrate statistical and machine learning models to create interpretable solutions, enhancing decision-making and fostering client trust. Proficient in both front-end and back-end development, I work seamlessly within teams to deliver effective AI-driven products.
 
 
 - 📒 My Medium articles share a variety of knowledge about AI. **[here](https://medium.com/@cch.chichieh)**
