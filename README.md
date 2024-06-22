@@ -9,7 +9,7 @@
 I'm an experienced AI engineer specializing in Large Language Models (LLM). My expertise includes causal inference, Marketing Mix Modeling, time series analysis, and advanced LLM applications. I integrate statistical and machine learning models to create interpretable solutions, enhancing decision-making and fostering client trust. Proficient in both front-end and back-end development, I work seamlessly within teams to deliver effective AI-driven products.
 
 
-- 📒 My Medium articles share a variety of knowledge about AI. **[here](https://medium.com/@cch.chichieh)**
+- 📒 My [**Medium**](https://medium.com/@cch.chichieh) articles share a variety of knowledge about AI.
   
 - 📚 My Data Visualization **[here](https://drive.google.com/file/d/17D9jWmNCJNPTMbp1ibWR9Ll-SB8H4NL0/view)** 👈
   
