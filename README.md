@@ -6,16 +6,23 @@
       <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fwsxqaza12&label=VISITORS&labelColor=%23dce775&countColor=%232ccce4" /></a></td>
   </tr>
 </table>
-I'm an experienced AI engineer specializing in Large Language Models (LLM). My expertise includes causal inference, Marketing Mix Modeling, time series analysis, and advanced LLM applications. I integrate statistical and machine learning models to create interpretable solutions, enhancing decision-making and fostering client trust. Proficient in both front-end and back-end development, I work seamlessly within teams to deliver effective AI-driven products.
 
+I'm an AI engineer specializing in applied Large Language Models (LLM), Generative AI, and real-world machine learning systems. 
+My work bridges research and production, building scalable and interpretable AI solutions.
 
-- 📒 My [**Medium**](https://medium.com/@cch.chichieh) articles share a variety of knowledge about AI.
-  
-- 📚 My Data Visualization **[here](https://drive.google.com/file/d/17D9jWmNCJNPTMbp1ibWR9Ll-SB8H4NL0/view)** 👈
-  
-- 📫 How to reach me **cch.chichieh@gmail.com**
-  
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1NDO9IShQXG7nnlD6upS7c7YkRN8Qqqso/view?usp=drive_link)**
+🛠 **Expertise**  
+- Large Language Models (LLM), Generative AI  
+- Causal Inference, Marketing Mix Modeling (MMM), A/B Testing  
+- Time Series Forecasting, Real-world ML Deployment  
+- Full-Stack Development (Backend / Frontend / Cloud Infrastructure)  
+---
+📒 **Medium Articles** — [My Medium](https://medium.com/@cch.chichieh)
+
+📊 **Data Visualization Projects** — [View here](https://drive.google.com/file/d/17D9jWmNCJNPTMbp1ibWR9Ll-SB8H4NL0/view)
+
+📫 **Contact** — cch.chichieh@gmail.com
+
+📄 **Resume** — [View Resume](https://drive.google.com/file/d/1NDO9IShQXG7nnlD6upS7c7YkRN8Qqqso/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
