@@ -22,8 +22,6 @@ My work bridges research and production, building scalable and interpretable AI 
 
 📫 **Contact** — cch.chichieh@gmail.com
 
-📄 **Resume** — [View Resume](https://drive.google.com/file/d/1NDO9IShQXG7nnlD6upS7c7YkRN8Qqqso/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/chichieh-huang-5322881ba/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chichieh huang" height="30" width="40" /></a>
